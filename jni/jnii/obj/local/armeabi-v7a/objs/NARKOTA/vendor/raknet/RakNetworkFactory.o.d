@@ -1,0 +1,106 @@
+./obj/local/armeabi-v7a/objs/NARKOTA/vendor/raknet/RakNetworkFactory.o: \
+  jni/vendor/raknet/RakNetworkFactory.cpp \
+  jni/vendor/raknet/LogCommandParser.h \
+  jni/vendor/raknet/CommandParserInterface.h \
+  jni/vendor/raknet/NetworkTypes.h jni/vendor/raknet/RakNetDefines.h \
+  jni/vendor/raknet/Export.h jni/vendor/raknet/DS_OrderedList.h \
+  jni/vendor/raknet/DS_List.h jni/vendor/raknet/RakNetworkFactory.h \
+  jni/vendor/raknet/RakServerInterface.h \
+  jni/vendor/raknet/PacketPriority.h \
+  jni/vendor/raknet/RakPeerInterface.h jni/vendor/raknet/BitStream.h \
+  jni/vendor/raknet/RakNetStatistics.h \
+  jni/vendor/raknet/RakClientInterface.h jni/vendor/raknet/RakServer.h \
+  jni/vendor/raknet/RakPeer.h jni/vendor/raknet/ReliabilityLayer.h \
+  jni/vendor/raknet/SocketLayer.h \
+  jni/vendor/raknet/ClientContextStruct.h jni/vendor/raknet/MTUSize.h \
+  jni/vendor/raknet/DS_LinkedList.h jni/vendor/raknet/DS_Queue.h \
+  jni/vendor/raknet/InternalPacket.h \
+  jni/vendor/raknet/InternalPacketPool.h \
+  jni/vendor/raknet/DataBlockEncryptor.h jni/vendor/raknet/rijndael.h \
+  jni/vendor/raknet/SHA1.h jni/vendor/raknet/Types.h \
+  jni/vendor/raknet/DS_RangeList.h jni/vendor/raknet/DS_BPlusTree.h \
+  jni/vendor/raknet/DS_MemoryPool.h jni/vendor/raknet/RPCNode.h \
+  jni/vendor/raknet/RSACrypt.h jni/vendor/raknet/BigTypes.h \
+  jni/vendor/raknet/Rand.h jni/vendor/raknet/SingleProducerConsumer.h \
+  jni/vendor/raknet/RPCMap.h jni/vendor/raknet/SimpleMutex.h \
+  jni/vendor/raknet/DS_QueueLinkedList.h jni/vendor/raknet/RakClient.h
+
+jni/vendor/raknet/LogCommandParser.h:
+
+jni/vendor/raknet/CommandParserInterface.h:
+
+jni/vendor/raknet/NetworkTypes.h:
+
+jni/vendor/raknet/RakNetDefines.h:
+
+jni/vendor/raknet/Export.h:
+
+jni/vendor/raknet/DS_OrderedList.h:
+
+jni/vendor/raknet/DS_List.h:
+
+jni/vendor/raknet/RakNetworkFactory.h:
+
+jni/vendor/raknet/RakServerInterface.h:
+
+jni/vendor/raknet/PacketPriority.h:
+
+jni/vendor/raknet/RakPeerInterface.h:
+
+jni/vendor/raknet/BitStream.h:
+
+jni/vendor/raknet/RakNetStatistics.h:
+
+jni/vendor/raknet/RakClientInterface.h:
+
+jni/vendor/raknet/RakServer.h:
+
+jni/vendor/raknet/RakPeer.h:
+
+jni/vendor/raknet/ReliabilityLayer.h:
+
+jni/vendor/raknet/SocketLayer.h:
+
+jni/vendor/raknet/ClientContextStruct.h:
+
+jni/vendor/raknet/MTUSize.h:
+
+jni/vendor/raknet/DS_LinkedList.h:
+
+jni/vendor/raknet/DS_Queue.h:
+
+jni/vendor/raknet/InternalPacket.h:
+
+jni/vendor/raknet/InternalPacketPool.h:
+
+jni/vendor/raknet/DataBlockEncryptor.h:
+
+jni/vendor/raknet/rijndael.h:
+
+jni/vendor/raknet/SHA1.h:
+
+jni/vendor/raknet/Types.h:
+
+jni/vendor/raknet/DS_RangeList.h:
+
+jni/vendor/raknet/DS_BPlusTree.h:
+
+jni/vendor/raknet/DS_MemoryPool.h:
+
+jni/vendor/raknet/RPCNode.h:
+
+jni/vendor/raknet/RSACrypt.h:
+
+jni/vendor/raknet/BigTypes.h:
+
+jni/vendor/raknet/Rand.h:
+
+jni/vendor/raknet/SingleProducerConsumer.h:
+
+jni/vendor/raknet/RPCMap.h:
+
+jni/vendor/raknet/SimpleMutex.h:
+
+jni/vendor/raknet/DS_QueueLinkedList.h:
+
+jni/vendor/raknet/RakClient.h:

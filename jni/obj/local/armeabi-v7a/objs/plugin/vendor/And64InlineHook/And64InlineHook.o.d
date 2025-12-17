@@ -1,0 +1,17 @@
+./obj/local/armeabi-v7a/objs/plugin/vendor/And64InlineHook/And64InlineHook.o: \
+  jni/vendor/And64InlineHook/And64InlineHook.cpp \
+  D:/ndk25e/build/../sources/cxx-stl/llvm-libc++/include/inttypes.h \
+  D:/ndk25e/build/../sources/cxx-stl/llvm-libc++/include/__config \
+  D:/ndk25e/build/../sources/cxx-stl/llvm-libc++/include/stdlib.h \
+  D:/ndk25e/build/../sources/cxx-stl/llvm-libc++/include/string.h \
+  D:/ndk25e/build/../sources/cxx-stl/llvm-libc++/include/errno.h
+
+D:/ndk25e/build/../sources/cxx-stl/llvm-libc++/include/inttypes.h:
+
+D:/ndk25e/build/../sources/cxx-stl/llvm-libc++/include/__config:
+
+D:/ndk25e/build/../sources/cxx-stl/llvm-libc++/include/stdlib.h:
+
+D:/ndk25e/build/../sources/cxx-stl/llvm-libc++/include/string.h:
+
+D:/ndk25e/build/../sources/cxx-stl/llvm-libc++/include/errno.h:

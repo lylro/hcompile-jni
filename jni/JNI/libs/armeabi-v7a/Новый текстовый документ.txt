@@ -1,0 +1,32 @@
+.method private final setObservers()V
+    .locals 14
+
+    # Код до строки .line 153
+    .line 153
+    invoke-direct {p0}, Lcom/blackhub/bronline/launcher/fragments/InitializationFragment;->getMainActivityViewModel()Lcom/blackhub/bronline/launcher/viewmodel/MainActivityViewModel;
+
+    move-result-object v0
+
+    invoke-virtual {v0}, Lcom/blackhub/bronline/launcher/viewmodel/MainActivityViewModel;->isActualVersion()Landroidx/lifecycle/LiveData;
+
+    move-result-object v0
+
+    new-instance v1, Lcom/blackhub/bronline/launcher/fragments/InitializationFragment$setObservers$5;
+
+    invoke-direct {v1, p0}, Lcom/blackhub/bronline/launcher/fragments/InitializationFragment$setObservers$5;-><init>(Lcom/blackhub/bronline/launcher/fragments/InitializationFragment;)V
+
+    new-instance v2, Lcom/blackhub/bronline/launcher/fragments/InitializationFragment$sam$androidx_lifecycle_Observer$0;
+
+    invoke-direct {v2, v1}, Lcom/blackhub/bronline/launcher/fragments/InitializationFragment$sam$androidx_lifecycle_Observer$0;-><init>(Lkotlin/jvm/functions/Function1;)V
+
+    invoke-virtual {v0, p0, v2}, Landroidx/lifecycle/LiveData;->observe(Landroidx/lifecycle/LifecycleOwner;Landroidx/lifecycle/Observer;)V
+
+    # Далее добавляем новый блок с вызовом завершения инициализации вне зависимости от проверки
+    invoke-direct {p0}, Lcom/blackhub/bronline/launcher/fragments/InitializationFragment;->completeInitialization()V
+
+    # Меняем size на ноль при вызове updateProgressBar
+    const/4 v3, 0x0 # Указываем нулевое значение размера
+    invoke-direct {p0, v3}, Lcom/blackhub/bronline/launcher/fragments/InitializationFragment;->updateProgressBar(I)V
+
+    return-void
+.end method

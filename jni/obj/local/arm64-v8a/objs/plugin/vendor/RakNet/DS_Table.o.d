@@ -1,0 +1,29 @@
+./obj/local/arm64-v8a/objs/plugin/vendor/RakNet/DS_Table.o: \
+  jni/vendor/RakNet/DS_Table.cpp jni/vendor/RakNet/DS_Table.h \
+  jni/vendor/RakNet/DS_List.h \
+  C:/n25/build/../sources/cxx-stl/llvm-libc++/include/string.h \
+  C:/n25/build/../sources/cxx-stl/llvm-libc++/include/__config \
+  jni/vendor/RakNet/Export.h jni/vendor/RakNet/DS_BPlusTree.h \
+  jni/vendor/RakNet/DS_MemoryPool.h jni/vendor/RakNet/DS_Queue.h \
+  C:/n25/build/../sources/cxx-stl/llvm-libc++/include/stdio.h \
+  jni/vendor/RakNet/DS_OrderedList.h
+
+jni/vendor/RakNet/DS_Table.h:
+
+jni/vendor/RakNet/DS_List.h:
+
+C:/n25/build/../sources/cxx-stl/llvm-libc++/include/string.h:
+
+C:/n25/build/../sources/cxx-stl/llvm-libc++/include/__config:
+
+jni/vendor/RakNet/Export.h:
+
+jni/vendor/RakNet/DS_BPlusTree.h:
+
+jni/vendor/RakNet/DS_MemoryPool.h:
+
+jni/vendor/RakNet/DS_Queue.h:
+
+C:/n25/build/../sources/cxx-stl/llvm-libc++/include/stdio.h:
+
+jni/vendor/RakNet/DS_OrderedList.h:

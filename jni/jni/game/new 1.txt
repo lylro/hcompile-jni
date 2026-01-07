@@ -1,0 +1,12 @@
+<androidx.cardview.widget.CardView xmlns:tools="http://schemas.android.com/tools"
+
+
+dialog.setContentView(R.layout.item_dialog_settings)
+
+  <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="390dp"
+            android:layout_height="77dp"
+            android:background="@drawable/dialog_item_bg" />
+
+

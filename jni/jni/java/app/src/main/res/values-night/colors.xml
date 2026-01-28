@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Переопределения только для темной темы -->
+    <color name="message_bubble_own">@color/white</color>
+    <color name="message_bubble_other">@color/gray_800</color>
+    <color name="message_text_own">@color/black</color>
+    <color name="message_text_other">@color/white</color>
+
+    <!-- Новые цвета для ответов (темная тема) -->
+    <color name="reply_username_text">#BB86FC</color>
+    <color name="reply_message_text">#AAAAAA</color>
+    <color name="reply_background">#20FFFFFF</color>
+    <color name="quote_indicator">#66BB6A</color>
+</resources>
